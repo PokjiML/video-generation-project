@@ -1,0 +1,7 @@
+numpy
+opencv
+pytorch
+torchvision
+torchaudio
+pytorch-cuda=13.0
+timm
