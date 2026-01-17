@@ -1,3 +1,5 @@
-/bouncing_ball_dataset
+/bouncing_balls_dataset
 /experiments_data
 copy.ipynb
+predicted.gif
+__pycache__/
