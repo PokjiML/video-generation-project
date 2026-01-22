@@ -3,3 +3,4 @@
 copy.ipynb
 predicted.gif
 __pycache__/
+/wandb/
