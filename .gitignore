@@ -4,3 +4,5 @@ copy.ipynb
 predicted.gif
 __pycache__/
 /wandb/
+manual.pt
+model.pt

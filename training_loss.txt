@@ -1,0 +1,594 @@
+Epoch 1 Step 20/506  loss=0.451181  lr=1.976e-04
+Epoch 1 Step 40/506  loss=0.322550  lr=3.953e-04
+Epoch 1 Step 60/506  loss=0.271163  lr=5.929e-04
+Epoch 1 Step 80/506  loss=0.240568  lr=7.905e-04
+Epoch 1 Step 100/506  loss=0.218479  lr=9.881e-04
+Epoch 1 Step 120/506  loss=0.201196  lr=1.186e-03
+Epoch 1 Step 140/506  loss=0.184223  lr=1.383e-03
+Epoch 1 Step 160/506  loss=0.169002  lr=1.581e-03
+Epoch 1 Step 180/506  loss=0.155864  lr=1.779e-03
+Epoch 1 Step 200/506  loss=0.144731  lr=1.976e-03
+Epoch 1 Step 220/506  loss=0.135327  lr=2.174e-03
+Epoch 1 Step 240/506  loss=0.127340  lr=2.372e-03
+Epoch 1 Step 260/506  loss=0.120532  lr=2.569e-03
+Epoch 1 Step 280/506  loss=0.114686  lr=2.767e-03
+Epoch 1 Step 300/506  loss=0.109490  lr=2.964e-03
+Epoch 1 Step 320/506  loss=0.104921  lr=3.162e-03
+Epoch 1 Step 340/506  loss=0.100693  lr=3.360e-03
+Epoch 1 Step 360/506  loss=0.096846  lr=3.557e-03
+Epoch 1 Step 380/506  loss=0.093251  lr=3.755e-03
+Epoch 1 Step 400/506  loss=0.090348  lr=3.953e-03
+Epoch 1 Step 420/506  loss=0.087506  lr=4.150e-03
+Epoch 1 Step 440/506  loss=0.085028  lr=4.348e-03
+Epoch 1 Step 460/506  loss=0.082602  lr=4.545e-03
+Epoch 1 Step 480/506  loss=0.080299  lr=4.743e-03
+Epoch 1 Step 500/506  loss=0.078055  lr=4.941e-03
+Epoch 1 completed in 635.2s  avg_loss=0.077391  lr=5.000e-03
+
+Validation loss: 0.006181
+
+Epoch 2 Step 20/506  loss=0.020644  lr=5.000e-03
+Epoch 2 Step 40/506  loss=0.020613  lr=5.000e-03
+Epoch 2 Step 60/506  loss=0.020299  lr=5.000e-03
+Epoch 2 Step 80/506  loss=0.019800  lr=4.999e-03
+Epoch 2 Step 100/506  loss=0.019496  lr=4.999e-03
+Epoch 2 Step 120/506  loss=0.019168  lr=4.998e-03
+Epoch 2 Step 140/506  loss=0.018798  lr=4.997e-03
+Epoch 2 Step 160/506  loss=0.018554  lr=4.997e-03
+Epoch 2 Step 180/506  loss=0.018253  lr=4.996e-03
+Epoch 2 Step 200/506  loss=0.018091  lr=4.995e-03
+Epoch 2 Step 220/506  loss=0.018010  lr=4.994e-03
+Epoch 2 Step 240/506  loss=0.017852  lr=4.992e-03
+Epoch 2 Step 260/506  loss=0.017633  lr=4.991e-03
+Epoch 2 Step 280/506  loss=0.017399  lr=4.990e-03
+Epoch 2 Step 300/506  loss=0.017230  lr=4.988e-03
+Epoch 2 Step 320/506  loss=0.017044  lr=4.986e-03
+Epoch 2 Step 340/506  loss=0.016901  lr=4.985e-03
+Epoch 2 Step 360/506  loss=0.016729  lr=4.983e-03
+Epoch 2 Step 380/506  loss=0.016599  lr=4.981e-03
+Epoch 2 Step 400/506  loss=0.016473  lr=4.979e-03
+Epoch 2 Step 420/506  loss=0.016384  lr=4.976e-03
+Epoch 2 Step 440/506  loss=0.016233  lr=4.974e-03
+Epoch 2 Step 460/506  loss=0.016091  lr=4.972e-03
+Epoch 2 Step 480/506  loss=0.016005  lr=4.969e-03
+Epoch 2 Step 500/506  loss=0.015886  lr=4.967e-03
+Epoch 2 completed in 647.1s  avg_loss=0.015850  lr=4.966e-03
+
+Validation loss: 0.004040
+
+Epoch 3 Step 20/506  loss=0.012709  lr=4.963e-03
+Epoch 3 Step 40/506  loss=0.013069  lr=4.960e-03
+Epoch 3 Step 80/506  loss=0.013097  lr=4.954e-03
+Epoch 3 Step 100/506  loss=0.013022  lr=4.951e-03
+Epoch 3 Step 120/506  loss=0.012928  lr=4.948e-03
+Epoch 3 Step 140/506  loss=0.012916  lr=4.945e-03
+Epoch 3 Step 160/506  loss=0.012841  lr=4.941e-03
+Epoch 3 Step 180/506  loss=0.012773  lr=4.937e-03
+Epoch 3 Step 200/506  loss=0.012705  lr=4.934e-03
+Epoch 3 Step 220/506  loss=0.012666  lr=4.930e-03
+Epoch 3 Step 240/506  loss=0.012667  lr=4.926e-03
+Epoch 3 Step 260/506  loss=0.012699  lr=4.922e-03
+Epoch 3 Step 280/506  loss=0.012676  lr=4.918e-03
+Epoch 3 Step 300/506  loss=0.012605  lr=4.914e-03
+Epoch 3 Step 320/506  loss=0.012535  lr=4.909e-03
+Epoch 3 Step 340/506  loss=0.012475  lr=4.905e-03
+Epoch 3 Step 360/506  loss=0.012394  lr=4.901e-03
+Epoch 3 Step 380/506  loss=0.012352  lr=4.896e-03
+Epoch 3 Step 400/506  loss=0.012283  lr=4.891e-03
+Epoch 3 Step 420/506  loss=0.012246  lr=4.886e-03
+Epoch 3 Step 440/506  loss=0.012216  lr=4.881e-03
+Epoch 3 Step 460/506  loss=0.012187  lr=4.876e-03
+Epoch 3 Step 480/506  loss=0.012168  lr=4.871e-03
+Epoch 3 Step 500/506  loss=0.012136  lr=4.866e-03
+Epoch 3 completed in 636.6s  avg_loss=0.012114  lr=4.865e-03
+
+Validation loss: 0.003389
+
+Epoch 4 Step 20/506  loss=0.010542  lr=4.859e-03
+Epoch 4 Step 40/506  loss=0.010692  lr=4.854e-03
+Epoch 4 Step 60/506  loss=0.010782  lr=4.848e-03
+Epoch 4 Step 80/506  loss=0.010648  lr=4.843e-03
+Epoch 4 Step 100/506  loss=0.010660  lr=4.837e-03
+Epoch 4 Step 120/506  loss=0.010672  lr=4.831e-03
+Epoch 4 Step 140/506  loss=0.010785  lr=4.825e-03
+Epoch 4 Step 160/506  loss=0.010949  lr=4.819e-03
+Epoch 4 Step 180/506  loss=0.010961  lr=4.813e-03
+Epoch 4 Step 200/506  loss=0.010921  lr=4.806e-03
+Epoch 4 Step 220/506  loss=0.010900  lr=4.800e-03
+Epoch 4 Step 240/506  loss=0.010884  lr=4.794e-03
+Epoch 4 Step 260/506  loss=0.010819  lr=4.787e-03
+Epoch 4 Step 280/506  loss=0.010783  lr=4.780e-03
+Epoch 4 Step 300/506  loss=0.010816  lr=4.774e-03
+Epoch 4 Step 320/506  loss=0.010829  lr=4.767e-03
+Epoch 4 Step 340/506  loss=0.010824  lr=4.760e-03
+Epoch 4 Step 360/506  loss=0.010828  lr=4.753e-03
+Epoch 4 Step 380/506  loss=0.010783  lr=4.746e-03
+Epoch 4 Step 400/506  loss=0.010756  lr=4.739e-03
+Epoch 4 Step 420/506  loss=0.010755  lr=4.731e-03
+Epoch 4 Step 440/506  loss=0.010764  lr=4.724e-03
+Epoch 4 Step 460/506  loss=0.010738  lr=4.716e-03
+Epoch 4 Step 480/506  loss=0.010714  lr=4.709e-03
+Epoch 4 Step 500/506  loss=0.010689  lr=4.701e-03
+Epoch 4 completed in 644.7s  avg_loss=0.010684  lr=4.699e-03
+
+Validation loss: 0.003834
+
+Epoch 5 Step 20/506  loss=0.010138  lr=4.691e-03
+Epoch 5 Step 40/506  loss=0.010270  lr=4.683e-03
+Epoch 5 Step 60/506  loss=0.010247  lr=4.675e-03
+Epoch 5 Step 80/506  loss=0.010202  lr=4.667e-03
+Epoch 5 Step 100/506  loss=0.010169  lr=4.659e-03
+Epoch 5 Step 120/506  loss=0.010154  lr=4.650e-03
+Epoch 5 Step 140/506  loss=0.010212  lr=4.642e-03
+Epoch 5 Step 160/506  loss=0.010279  lr=4.633e-03
+Epoch 5 Step 180/506  loss=0.010246  lr=4.625e-03
+Epoch 5 Step 200/506  loss=0.010196  lr=4.616e-03
+Epoch 5 Step 220/506  loss=0.010164  lr=4.608e-03
+Epoch 5 Step 240/506  loss=0.010144  lr=4.599e-03
+Epoch 5 Step 260/506  loss=0.010101  lr=4.590e-03
+Epoch 5 Step 280/506  loss=0.010084  lr=4.581e-03
+Epoch 5 Step 300/506  loss=0.010053  lr=4.572e-03
+Epoch 5 Step 320/506  loss=0.010041  lr=4.562e-03
+Epoch 5 Step 340/506  loss=0.010042  lr=4.553e-03
+Epoch 5 Step 360/506  loss=0.010017  lr=4.544e-03
+Epoch 5 Step 380/506  loss=0.009985  lr=4.534e-03
+Epoch 5 Step 400/506  loss=0.009980  lr=4.525e-03
+Epoch 5 Step 420/506  loss=0.010000  lr=4.515e-03
+Epoch 5 Step 440/506  loss=0.009993  lr=4.506e-03
+Epoch 5 Step 460/506  loss=0.009973  lr=4.496e-03
+Epoch 5 Step 480/506  loss=0.009957  lr=4.486e-03
+Epoch 5 Step 500/506  loss=0.009935  lr=4.476e-03
+Epoch 5 completed in 644.0s  avg_loss=0.009937  lr=4.473e-03
+
+Validation loss: 0.003229
+
+Epoch 6 Step 20/506  loss=0.009171  lr=4.463e-03
+Epoch 6 Step 40/506  loss=0.009334  lr=4.453e-03
+Epoch 6 Step 60/506  loss=0.009426  lr=4.442e-03
+Epoch 6 Step 80/506  loss=0.009483  lr=4.432e-03
+Epoch 6 Step 100/506  loss=0.009651  lr=4.422e-03
+Epoch 6 Step 120/506  loss=0.009686  lr=4.411e-03
+Epoch 6 Step 140/506  loss=0.009638  lr=4.401e-03
+Epoch 6 Step 160/506  loss=0.009575  lr=4.390e-03
+Epoch 6 Step 180/506  loss=0.009504  lr=4.379e-03
+Epoch 6 Step 200/506  loss=0.009481  lr=4.368e-03
+Epoch 6 Step 220/506  loss=0.009463  lr=4.357e-03
+Epoch 6 Step 240/506  loss=0.009445  lr=4.346e-03
+Epoch 6 Step 260/506  loss=0.009420  lr=4.335e-03
+Epoch 6 Step 280/506  loss=0.009392  lr=4.324e-03
+Epoch 6 Step 300/506  loss=0.009364  lr=4.313e-03
+Epoch 6 Step 320/506  loss=0.009368  lr=4.302e-03
+Epoch 6 Step 340/506  loss=0.009344  lr=4.290e-03
+Epoch 6 Step 360/506  loss=0.009317  lr=4.279e-03
+Epoch 6 Step 380/506  loss=0.009315  lr=4.267e-03
+Epoch 6 Step 400/506  loss=0.009294  lr=4.256e-03
+Epoch 6 Step 420/506  loss=0.009278  lr=4.244e-03
+Epoch 6 Step 440/506  loss=0.009305  lr=4.232e-03
+Epoch 6 Step 460/506  loss=0.009297  lr=4.221e-03
+Epoch 6 Step 480/506  loss=0.009295  lr=4.209e-03
+Epoch 6 Step 500/506  loss=0.009280  lr=4.197e-03
+Epoch 6 completed in 646.9s  avg_loss=0.009270  lr=4.193e-03
+
+Validation loss: 0.003182
+
+Epoch 7 Step 20/506  loss=0.009075  lr=4.181e-03
+Epoch 7 Step 40/506  loss=0.009198  lr=4.169e-03
+Epoch 7 Step 60/506  loss=0.009198  lr=4.157e-03
+Epoch 7 Step 80/506  loss=0.009131  lr=4.145e-03
+Epoch 7 Step 100/506  loss=0.009179  lr=4.132e-03
+Epoch 7 Step 120/506  loss=0.009127  lr=4.120e-03
+Epoch 7 Step 140/506  loss=0.009173  lr=4.107e-03
+Epoch 7 Step 160/506  loss=0.009176  lr=4.095e-03
+Epoch 7 Step 180/506  loss=0.009167  lr=4.082e-03
+Epoch 7 Step 200/506  loss=0.009102  lr=4.069e-03
+Epoch 7 Step 220/506  loss=0.009085  lr=4.057e-03
+Epoch 7 Step 240/506  loss=0.009118  lr=4.044e-03
+Epoch 7 Step 260/506  loss=0.009128  lr=4.031e-03
+Epoch 7 Step 280/506  loss=0.009144  lr=4.018e-03
+Epoch 7 Step 300/506  loss=0.009106  lr=4.005e-03
+Epoch 7 Step 320/506  loss=0.009082  lr=3.992e-03
+Epoch 7 Step 340/506  loss=0.009059  lr=3.979e-03
+Epoch 7 Step 360/506  loss=0.009059  lr=3.966e-03
+Epoch 7 Step 380/506  loss=0.009052  lr=3.952e-03
+Epoch 7 Step 400/506  loss=0.009051  lr=3.939e-03
+Epoch 7 Step 420/506  loss=0.009030  lr=3.926e-03
+Epoch 7 Step 440/506  loss=0.009011  lr=3.912e-03
+Epoch 7 Step 460/506  loss=0.009004  lr=3.899e-03
+Epoch 7 Step 480/506  loss=0.009009  lr=3.885e-03
+Epoch 7 Step 500/506  loss=0.009003  lr=3.871e-03
+Epoch 7 completed in 645.3s  avg_loss=0.009002  lr=3.867e-03
+
+Validation loss: 0.003210
+
+Epoch 8 Step 20/506  loss=0.008657  lr=3.854e-03
+Epoch 8 Step 40/506  loss=0.008936  lr=3.840e-03
+Epoch 8 Step 60/506  loss=0.008896  lr=3.826e-03
+Epoch 8 Step 80/506  loss=0.008845  lr=3.812e-03
+Epoch 8 Step 100/506  loss=0.008774  lr=3.798e-03
+Epoch 8 Step 120/506  loss=0.008657  lr=3.784e-03
+Epoch 8 Step 140/506  loss=0.008607  lr=3.770e-03
+Epoch 8 Step 160/506  loss=0.008614  lr=3.756e-03
+Epoch 8 Step 180/506  loss=0.008615  lr=3.742e-03
+Epoch 8 Step 200/506  loss=0.008584  lr=3.728e-03
+Epoch 8 Step 220/506  loss=0.008609  lr=3.714e-03
+Epoch 8 Step 240/506  loss=0.008600  lr=3.699e-03
+Epoch 8 Step 260/506  loss=0.008596  lr=3.685e-03
+Epoch 8 Step 280/506  loss=0.008589  lr=3.670e-03
+Epoch 8 Step 300/506  loss=0.008583  lr=3.656e-03
+Epoch 8 Step 320/506  loss=0.008568  lr=3.641e-03
+Epoch 8 Step 340/506  loss=0.008560  lr=3.627e-03
+Epoch 8 Step 360/506  loss=0.008559  lr=3.612e-03
+Epoch 8 Step 380/506  loss=0.008562  lr=3.598e-03
+Epoch 8 Step 400/506  loss=0.008559  lr=3.583e-03
+Epoch 8 Step 420/506  loss=0.008544  lr=3.568e-03
+Epoch 8 Step 440/506  loss=0.008541  lr=3.553e-03
+Epoch 8 Step 460/506  loss=0.008544  lr=3.539e-03
+Epoch 8 Step 480/506  loss=0.008539  lr=3.524e-03
+Epoch 8 Step 500/506  loss=0.008531  lr=3.509e-03
+Epoch 8 completed in 647.8s  avg_loss=0.008529  lr=3.504e-03
+
+Validation loss: 0.002984
+
+Epoch 9 Step 20/506  loss=0.008394  lr=3.489e-03
+Epoch 9 Step 40/506  loss=0.008277  lr=3.474e-03
+Epoch 9 Step 60/506  loss=0.008240  lr=3.459e-03
+Epoch 9 Step 80/506  loss=0.008267  lr=3.444e-03
+Epoch 9 Step 100/506  loss=0.008315  lr=3.429e-03
+Epoch 9 Step 120/506  loss=0.008371  lr=3.414e-03
+Epoch 9 Step 140/506  loss=0.008338  lr=3.398e-03
+Epoch 9 Step 160/506  loss=0.008318  lr=3.383e-03
+Epoch 9 Step 180/506  loss=0.008318  lr=3.368e-03
+Epoch 9 Step 200/506  loss=0.008287  lr=3.353e-03
+Epoch 9 Step 220/506  loss=0.008298  lr=3.337e-03
+Epoch 9 Step 240/506  loss=0.008301  lr=3.322e-03
+Epoch 9 Step 260/506  loss=0.008286  lr=3.306e-03
+Epoch 9 Step 280/506  loss=0.008269  lr=3.291e-03
+Epoch 9 Step 300/506  loss=0.008263  lr=3.275e-03
+Epoch 9 Step 320/506  loss=0.008245  lr=3.260e-03
+Epoch 9 Step 340/506  loss=0.008232  lr=3.244e-03
+Epoch 9 Step 360/506  loss=0.008222  lr=3.229e-03
+Epoch 9 Step 380/506  loss=0.008219  lr=3.213e-03
+Epoch 9 Step 400/506  loss=0.008238  lr=3.197e-03
+Epoch 9 Step 420/506  loss=0.008235  lr=3.182e-03
+Epoch 9 Step 440/506  loss=0.008227  lr=3.166e-03
+Epoch 9 Step 460/506  loss=0.008223  lr=3.150e-03
+Epoch 9 Step 480/506  loss=0.008223  lr=3.134e-03
+Epoch 9 Step 500/506  loss=0.008232  lr=3.118e-03
+Epoch 9 completed in 641.2s  avg_loss=0.008236  lr=3.114e-03
+
+Validation loss: 0.003056
+
+Epoch 10 Step 20/506  loss=0.008115  lr=3.098e-03
+Epoch 10 Step 40/506  loss=0.008167  lr=3.082e-03
+Epoch 10 Step 60/506  loss=0.008149  lr=3.066e-03
+Epoch 10 Step 80/506  loss=0.008102  lr=3.050e-03
+Epoch 10 Step 100/506  loss=0.008142  lr=3.034e-03
+Epoch 10 Step 120/506  loss=0.008151  lr=3.018e-03
+Epoch 10 Step 140/506  loss=0.008134  lr=3.002e-03
+Epoch 10 Step 160/506  loss=0.008120  lr=2.986e-03
+Epoch 10 Step 180/506  loss=0.008100  lr=2.970e-03
+Epoch 10 Step 200/506  loss=0.008065  lr=2.954e-03
+Epoch 10 Step 220/506  loss=0.008045  lr=2.938e-03
+Epoch 10 Step 240/506  loss=0.008010  lr=2.922e-03
+Epoch 10 Step 260/506  loss=0.007992  lr=2.906e-03
+Epoch 10 Step 280/506  loss=0.007987  lr=2.890e-03
+Epoch 10 Step 300/506  loss=0.007971  lr=2.874e-03
+Epoch 10 Step 320/506  loss=0.007979  lr=2.857e-03
+Epoch 10 Step 340/506  loss=0.007971  lr=2.841e-03
+Epoch 10 Step 360/506  loss=0.007955  lr=2.825e-03
+Epoch 10 Step 380/506  loss=0.007936  lr=2.809e-03
+Epoch 10 Step 400/506  loss=0.007921  lr=2.793e-03
+Epoch 10 Step 420/506  loss=0.007921  lr=2.776e-03
+Epoch 10 Step 440/506  loss=0.007921  lr=2.760e-03
+Epoch 10 Step 480/506  loss=0.007924  lr=2.728e-03
+Epoch 10 Step 500/506  loss=0.007924  lr=2.711e-03
+Epoch 10 completed in 650.9s  avg_loss=0.007921  lr=2.706e-03
+
+Validation loss: 0.002715
+
+Epoch 11 Step 20/506  loss=0.007711  lr=2.690e-03
+Epoch 11 Step 40/506  loss=0.007797  lr=2.674e-03
+Epoch 11 Step 60/506  loss=0.007758  lr=2.658e-03
+Epoch 11 Step 80/506  loss=0.007737  lr=2.641e-03
+Epoch 11 Step 100/506  loss=0.007792  lr=2.625e-03
+Epoch 11 Step 120/506  loss=0.007792  lr=2.609e-03
+Epoch 11 Step 140/506  loss=0.007767  lr=2.592e-03
+Epoch 11 Step 160/506  loss=0.007751  lr=2.576e-03
+Epoch 11 Step 180/506  loss=0.007748  lr=2.560e-03
+Epoch 11 Step 200/506  loss=0.007731  lr=2.543e-03
+Epoch 11 Step 220/506  loss=0.007718  lr=2.527e-03
+Epoch 11 Step 240/506  loss=0.007697  lr=2.511e-03
+Epoch 11 Step 260/506  loss=0.007696  lr=2.494e-03
+Epoch 11 Step 280/506  loss=0.007677  lr=2.478e-03
+Epoch 11 Step 300/506  loss=0.007684  lr=2.462e-03
+Epoch 11 Step 320/506  loss=0.007680  lr=2.445e-03
+Epoch 11 Step 340/506  loss=0.007671  lr=2.429e-03
+Epoch 11 Step 360/506  loss=0.007661  lr=2.413e-03
+Epoch 11 Step 380/506  loss=0.007658  lr=2.396e-03
+Epoch 11 Step 400/506  loss=0.007655  lr=2.380e-03
+Epoch 11 Step 420/506  loss=0.007655  lr=2.364e-03
+Epoch 11 Step 440/506  loss=0.007642  lr=2.347e-03
+Epoch 11 Step 460/506  loss=0.007631  lr=2.331e-03
+Epoch 11 Step 480/506  loss=0.007637  lr=2.315e-03
+Epoch 11 Step 500/506  loss=0.007636  lr=2.298e-03
+Epoch 11 completed in 645.1s  avg_loss=0.007633  lr=2.294e-03
+
+Validation loss: 0.003025
+
+Epoch 12 Step 20/506  loss=0.007369  lr=2.277e-03
+Epoch 12 Step 40/506  loss=0.007298  lr=2.261e-03
+Epoch 12 Step 60/506  loss=0.007334  lr=2.245e-03
+Epoch 12 Step 100/506  loss=0.007320  lr=2.212e-03
+Epoch 12 Step 120/506  loss=0.007319  lr=2.196e-03
+Epoch 12 Step 140/506  loss=0.007297  lr=2.180e-03
+Epoch 12 Step 160/506  loss=0.007308  lr=2.164e-03
+Epoch 12 Step 180/506  loss=0.007291  lr=2.147e-03
+Epoch 12 Step 200/506  loss=0.007301  lr=2.131e-03
+Epoch 12 Step 220/506  loss=0.007313  lr=2.115e-03
+Epoch 12 Step 240/506  loss=0.007303  lr=2.099e-03
+Epoch 12 Step 260/506  loss=0.007305  lr=2.083e-03
+Epoch 12 Step 280/506  loss=0.007295  lr=2.067e-03
+Epoch 12 Step 300/506  loss=0.007304  lr=2.051e-03
+Epoch 12 Step 320/506  loss=0.007306  lr=2.035e-03
+Epoch 12 Step 340/506  loss=0.007300  lr=2.019e-03
+Epoch 12 Step 360/506  loss=0.007301  lr=2.003e-03
+Epoch 12 Step 380/506  loss=0.007297  lr=1.987e-03
+Epoch 12 Step 400/506  loss=0.007302  lr=1.971e-03
+Epoch 12 Step 420/506  loss=0.007296  lr=1.955e-03
+Epoch 12 Step 440/506  loss=0.007293  lr=1.939e-03
+Epoch 12 Step 460/506  loss=0.007292  lr=1.923e-03
+Epoch 12 Step 480/506  loss=0.007292  lr=1.907e-03
+Epoch 12 Step 500/506  loss=0.007287  lr=1.891e-03
+Epoch 12 completed in 643.0s  avg_loss=0.007285  lr=1.886e-03
+
+Validation loss: 0.002729
+
+Epoch 13 Step 20/506  loss=0.006935  lr=1.870e-03
+Epoch 13 Step 40/506  loss=0.007053  lr=1.855e-03
+Epoch 13 Step 60/506  loss=0.007033  lr=1.839e-03
+Epoch 13 Step 80/506  loss=0.007001  lr=1.823e-03
+Epoch 13 Step 100/506  loss=0.007017  lr=1.807e-03
+Epoch 13 Step 120/506  loss=0.007049  lr=1.792e-03
+Epoch 13 Step 140/506  loss=0.007078  lr=1.776e-03
+Epoch 13 Step 160/506  loss=0.007068  lr=1.760e-03
+Epoch 13 Step 180/506  loss=0.007052  lr=1.745e-03
+Epoch 13 Step 200/506  loss=0.007033  lr=1.729e-03
+Epoch 13 Step 220/506  loss=0.007034  lr=1.714e-03
+Epoch 13 Step 240/506  loss=0.007038  lr=1.698e-03
+Epoch 13 Step 260/506  loss=0.007029  lr=1.683e-03
+Epoch 13 Step 280/506  loss=0.007012  lr=1.667e-03
+Epoch 13 Step 300/506  loss=0.007016  lr=1.652e-03
+Epoch 13 Step 320/506  loss=0.007010  lr=1.637e-03
+Epoch 13 Step 340/506  loss=0.007014  lr=1.621e-03
+Epoch 13 Step 360/506  loss=0.007011  lr=1.606e-03
+Epoch 13 Step 380/506  loss=0.007019  lr=1.591e-03
+Epoch 13 Step 400/506  loss=0.007016  lr=1.576e-03
+Epoch 13 Step 420/506  loss=0.007018  lr=1.560e-03
+Epoch 13 Step 440/506  loss=0.007017  lr=1.545e-03
+Epoch 13 Step 460/506  loss=0.007013  lr=1.530e-03
+Epoch 13 Step 480/506  loss=0.007006  lr=1.515e-03
+Epoch 13 Step 500/506  loss=0.007001  lr=1.500e-03
+Epoch 13 completed in 642.8s  avg_loss=0.006999  lr=1.496e-03
+
+Error displaying widget: model not found
+
+Validation loss: 0.002758
+
+Error displaying widget: model not found
+
+Epoch 14 Step 20/506  loss=0.006861  lr=1.481e-03
+Epoch 14 Step 40/506  loss=0.006831  lr=1.466e-03
+Epoch 14 Step 60/506  loss=0.006836  lr=1.451e-03
+Epoch 14 Step 80/506  loss=0.006863  lr=1.436e-03
+Epoch 14 Step 100/506  loss=0.006860  lr=1.421e-03
+Epoch 14 Step 120/506  loss=0.006870  lr=1.407e-03
+Epoch 14 Step 140/506  loss=0.006871  lr=1.392e-03
+Epoch 14 Step 160/506  loss=0.006861  lr=1.377e-03
+Epoch 14 Step 180/506  loss=0.006854  lr=1.363e-03
+Epoch 14 Step 200/506  loss=0.006843  lr=1.348e-03
+Epoch 14 Step 220/506  loss=0.006833  lr=1.334e-03
+Epoch 14 Step 240/506  loss=0.006825  lr=1.319e-03
+Epoch 14 Step 260/506  loss=0.006821  lr=1.305e-03
+Epoch 14 Step 280/506  loss=0.006816  lr=1.291e-03
+Epoch 14 Step 300/506  loss=0.006809  lr=1.277e-03
+Epoch 14 Step 320/506  loss=0.006801  lr=1.262e-03
+Epoch 14 Step 340/506  loss=0.006798  lr=1.248e-03
+Epoch 14 Step 360/506  loss=0.006798  lr=1.234e-03
+Epoch 14 Step 380/506  loss=0.006786  lr=1.220e-03
+Epoch 14 Step 400/506  loss=0.006780  lr=1.206e-03
+Epoch 14 Step 420/506  loss=0.006776  lr=1.192e-03
+Epoch 14 Step 440/506  loss=0.006778  lr=1.178e-03
+Epoch 14 Step 460/506  loss=0.006771  lr=1.164e-03
+Epoch 14 Step 480/506  loss=0.006763  lr=1.150e-03
+Epoch 14 Step 500/506  loss=0.006764  lr=1.137e-03
+Epoch 14 completed in 638.4s  avg_loss=0.006764  lr=1.133e-03
+
+Error displaying widget: model not found
+
+Validation loss: 0.002696
+
+Error displaying widget: model not found
+
+Epoch 15 Step 20/506  loss=0.006535  lr=1.119e-03
+Epoch 15 Step 40/506  loss=0.006485  lr=1.105e-03
+Epoch 15 Step 60/506  loss=0.006485  lr=1.092e-03
+Epoch 15 Step 80/506  loss=0.006479  lr=1.078e-03
+Epoch 15 Step 100/506  loss=0.006493  lr=1.065e-03
+Epoch 15 Step 120/506  loss=0.006502  lr=1.052e-03
+Epoch 15 Step 140/506  loss=0.006518  lr=1.038e-03
+Epoch 15 Step 160/506  loss=0.006542  lr=1.025e-03
+Epoch 15 Step 180/506  loss=0.006546  lr=1.012e-03
+Epoch 15 Step 200/506  loss=0.006540  lr=9.989e-04
+Epoch 15 Step 220/506  loss=0.006545  lr=9.858e-04
+Epoch 15 Step 240/506  loss=0.006548  lr=9.729e-04
+Epoch 15 Step 260/506  loss=0.006544  lr=9.600e-04
+Epoch 15 Step 280/506  loss=0.006544  lr=9.471e-04
+Epoch 15 Step 300/506  loss=0.006536  lr=9.344e-04
+Epoch 15 Step 320/506  loss=0.006534  lr=9.216e-04
+Epoch 15 Step 340/506  loss=0.006528  lr=9.090e-04
+Epoch 15 Step 360/506  loss=0.006526  lr=8.964e-04
+Epoch 15 Step 380/506  loss=0.006526  lr=8.839e-04
+Epoch 15 Step 400/506  loss=0.006523  lr=8.715e-04
+Epoch 15 Step 420/506  loss=0.006524  lr=8.591e-04
+Epoch 15 Step 440/506  loss=0.006529  lr=8.469e-04
+Epoch 15 Step 460/506  loss=0.006529  lr=8.346e-04
+Epoch 15 Step 480/506  loss=0.006527  lr=8.225e-04
+Epoch 15 Step 500/506  loss=0.006525  lr=8.104e-04
+Epoch 15 completed in 645.5s  avg_loss=0.006523  lr=8.068e-04
+
+Error displaying widget: model not found
+
+Validation loss: 0.002444
+
+Error displaying widget: model not found
+
+Epoch 16 Step 20/506  loss=0.006365  lr=7.948e-04
+Epoch 16 Step 40/506  loss=0.006341  lr=7.829e-04
+Epoch 16 Step 60/506  loss=0.006351  lr=7.711e-04
+Epoch 16 Step 80/506  loss=0.006356  lr=7.593e-04
+Epoch 16 Step 100/506  loss=0.006367  lr=7.476e-04
+Epoch 16 Step 120/506  loss=0.006360  lr=7.360e-04
+Epoch 16 Step 140/506  loss=0.006344  lr=7.245e-04
+Epoch 16 Step 160/506  loss=0.006346  lr=7.130e-04
+Epoch 16 Step 180/506  loss=0.006346  lr=7.016e-04
+Epoch 16 Step 200/506  loss=0.006340  lr=6.903e-04
+Epoch 16 Step 220/506  loss=0.006346  lr=6.791e-04
+Epoch 16 Step 240/506  loss=0.006346  lr=6.679e-04
+Epoch 16 Step 260/506  loss=0.006346  lr=6.568e-04
+Epoch 16 Step 280/506  loss=0.006348  lr=6.458e-04
+Epoch 16 Step 300/506  loss=0.006340  lr=6.349e-04
+Epoch 16 Step 320/506  loss=0.006342  lr=6.241e-04
+Epoch 16 Step 340/506  loss=0.006341  lr=6.133e-04
+Epoch 16 Step 360/506  loss=0.006346  lr=6.026e-04
+Epoch 16 Step 380/506  loss=0.006345  lr=5.920e-04
+Epoch 16 Step 400/506  loss=0.006342  lr=5.815e-04
+Epoch 16 Step 420/506  loss=0.006341  lr=5.711e-04
+Epoch 16 Step 440/506  loss=0.006337  lr=5.607e-04
+Epoch 16 Step 460/506  loss=0.006334  lr=5.505e-04
+Epoch 16 Step 480/506  loss=0.006332  lr=5.403e-04
+Epoch 16 Step 500/506  loss=0.006329  lr=5.302e-04
+Epoch 16 completed in 644.9s  avg_loss=0.006329  lr=5.271e-04
+
+Error displaying widget: model not found
+
+Validation loss: 0.002433
+
+Error displaying widget: model not found
+
+Epoch 17 Step 20/506  loss=0.006256  lr=5.172e-04
+Epoch 17 Step 40/506  loss=0.006214  lr=5.072e-04
+Epoch 17 Step 60/506  loss=0.006206  lr=4.974e-04
+Epoch 17 Step 80/506  loss=0.006208  lr=4.877e-04
+Epoch 17 Step 100/506  loss=0.006203  lr=4.780e-04
+Epoch 17 Step 120/506  loss=0.006195  lr=4.685e-04
+Epoch 17 Step 140/506  loss=0.006210  lr=4.590e-04
+Epoch 17 Step 180/506  loss=0.006204  lr=4.403e-04
+Epoch 17 Step 200/506  loss=0.006199  lr=4.311e-04
+Epoch 17 Step 220/506  loss=0.006196  lr=4.220e-04
+Epoch 17 Step 240/506  loss=0.006183  lr=4.129e-04
+Epoch 17 Step 260/506  loss=0.006189  lr=4.040e-04
+Epoch 17 Step 280/506  loss=0.006195  lr=3.951e-04
+Epoch 17 Step 300/506  loss=0.006191  lr=3.863e-04
+Epoch 17 Step 320/506  loss=0.006185  lr=3.777e-04
+Epoch 17 Step 340/506  loss=0.006180  lr=3.691e-04
+Epoch 17 Step 360/506  loss=0.006180  lr=3.606e-04
+Epoch 17 Step 380/506  loss=0.006173  lr=3.522e-04
+Epoch 17 Step 400/506  loss=0.006174  lr=3.438e-04
+Epoch 17 Step 420/506  loss=0.006173  lr=3.356e-04
+Epoch 17 Step 440/506  loss=0.006173  lr=3.275e-04
+Epoch 17 Step 460/506  loss=0.006171  lr=3.194e-04
+Epoch 17 Step 480/506  loss=0.006169  lr=3.115e-04
+Epoch 17 Step 500/506  loss=0.006170  lr=3.037e-04
+Epoch 17 completed in 638.4s  avg_loss=0.006169  lr=3.013e-04
+
+Error displaying widget: model not found
+
+Validation loss: 0.002405
+
+Epoch 18 Step 20/506  loss=0.006017  lr=2.936e-04
+Epoch 18 Step 40/506  loss=0.006042  lr=2.860e-04
+Epoch 18 Step 60/506  loss=0.005996  lr=2.784e-04
+Epoch 18 Step 80/506  loss=0.006005  lr=2.710e-04
+Epoch 18 Step 100/506  loss=0.006025  lr=2.636e-04
+Epoch 18 Step 120/506  loss=0.006017  lr=2.564e-04
+Epoch 18 Step 140/506  loss=0.006017  lr=2.492e-04
+Epoch 18 Step 160/506  loss=0.006021  lr=2.421e-04
+Epoch 18 Step 180/506  loss=0.006032  lr=2.352e-04
+Epoch 18 Step 200/506  loss=0.006035  lr=2.283e-04
+Epoch 18 Step 220/506  loss=0.006032  lr=2.215e-04
+Epoch 18 Step 240/506  loss=0.006032  lr=2.149e-04
+Epoch 18 Step 260/506  loss=0.006033  lr=2.083e-04
+Epoch 18 Step 280/506  loss=0.006035  lr=2.018e-04
+Epoch 18 Step 300/506  loss=0.006033  lr=1.954e-04
+Epoch 18 Step 320/506  loss=0.006034  lr=1.891e-04
+Epoch 18 Step 340/506  loss=0.006036  lr=1.829e-04
+Epoch 18 Step 360/506  loss=0.006033  lr=1.769e-04
+Epoch 18 Step 380/506  loss=0.006035  lr=1.709e-04
+Epoch 18 Step 400/506  loss=0.006035  lr=1.650e-04
+Epoch 18 Step 420/506  loss=0.006036  lr=1.592e-04
+Epoch 18 Step 440/506  loss=0.006036  lr=1.535e-04
+Epoch 18 Step 460/506  loss=0.006036  lr=1.479e-04
+Epoch 18 Step 480/506  loss=0.006038  lr=1.424e-04
+Epoch 18 Step 500/506  loss=0.006038  lr=1.371e-04
+Epoch 18 completed in 643.8s  avg_loss=0.006038  lr=1.355e-04
+
+Validation loss: 0.002373
+
+Epoch 19 Step 20/506  loss=0.005806  lr=1.302e-04
+Epoch 19 Step 40/506  loss=0.005878  lr=1.250e-04
+Epoch 19 Step 60/506  loss=0.005935  lr=1.200e-04
+Epoch 19 Step 80/506  loss=0.005942  lr=1.150e-04
+Epoch 19 Step 100/506  loss=0.005923  lr=1.102e-04
+Epoch 19 Step 120/506  loss=0.005931  lr=1.055e-04
+Epoch 19 Step 140/506  loss=0.005943  lr=1.008e-04
+Epoch 19 Step 160/506  loss=0.005948  lr=9.627e-05
+Epoch 19 Step 180/506  loss=0.005954  lr=9.183e-05
+Epoch 19 Step 200/506  loss=0.005953  lr=8.749e-05
+Epoch 19 Step 220/506  loss=0.005953  lr=8.326e-05
+Epoch 19 Step 240/506  loss=0.005951  lr=7.913e-05
+Epoch 19 Step 260/506  loss=0.005952  lr=7.510e-05
+Epoch 19 Step 280/506  loss=0.005953  lr=7.118e-05
+Epoch 19 Step 300/506  loss=0.005959  lr=6.736e-05
+Epoch 19 Step 320/506  loss=0.005955  lr=6.364e-05
+Epoch 19 Step 340/506  loss=0.005951  lr=6.003e-05
+Epoch 19 Step 360/506  loss=0.005955  lr=5.653e-05
+Epoch 19 Step 380/506  loss=0.005955  lr=5.312e-05
+Epoch 19 Step 400/506  loss=0.005950  lr=4.983e-05
+Epoch 19 Step 420/506  loss=0.005950  lr=4.663e-05
+Epoch 19 Step 440/506  loss=0.005948  lr=4.354e-05
+Epoch 19 Step 460/506  loss=0.005948  lr=4.056e-05
+Epoch 19 Step 480/506  loss=0.005948  lr=3.768e-05
+Epoch 19 Step 500/506  loss=0.005948  lr=3.491e-05
+Epoch 19 completed in 645.0s  avg_loss=0.005947  lr=3.410e-05
+
+Validation loss: 0.002355
+
+Epoch 20 Step 20/506  loss=0.005899  lr=3.146e-05
+Epoch 20 Step 40/506  loss=0.005950  lr=2.893e-05
+Epoch 20 Step 60/506  loss=0.005908  lr=2.650e-05
+Epoch 20 Step 80/506  loss=0.005921  lr=2.418e-05
+Epoch 20 Step 100/506  loss=0.005920  lr=2.197e-05
+Epoch 20 Step 120/506  loss=0.005913  lr=1.986e-05
+Epoch 20 Step 140/506  loss=0.005906  lr=1.786e-05
+Epoch 20 Step 160/506  loss=0.005907  lr=1.596e-05
+Epoch 20 Step 180/506  loss=0.005909  lr=1.417e-05
+Epoch 20 Step 200/506  loss=0.005905  lr=1.249e-05
+Epoch 20 Step 220/506  loss=0.005900  lr=1.091e-05
+Epoch 20 Step 240/506  loss=0.005898  lr=9.438e-06
+Epoch 20 Step 260/506  loss=0.005897  lr=8.073e-06
+Epoch 20 Step 280/506  loss=0.005898  lr=6.814e-06
+Epoch 20 Step 300/506  loss=0.005895  lr=5.662e-06
+Epoch 20 Step 320/506  loss=0.005895  lr=4.616e-06
+Epoch 20 Step 340/506  loss=0.005892  lr=3.677e-06
+Epoch 20 Step 360/506  loss=0.005893  lr=2.845e-06
+Epoch 20 Step 380/506  loss=0.005894  lr=2.119e-06
+Epoch 20 Step 400/506  loss=0.005894  lr=1.500e-06
+Epoch 20 Step 420/506  loss=0.005896  lr=9.871e-07
+Epoch 20 Step 440/506  loss=0.005901  lr=5.814e-07
+Epoch 20 Step 460/506  loss=0.005902  lr=2.824e-07
+Epoch 20 Step 480/506  loss=0.005901  lr=9.023e-08
+Epoch 20 Step 500/506  loss=0.005900  lr=4.805e-09
+Epoch 20 completed in 644.7s  avg_loss=0.005899  lr=0.000e+00
+
+Validation loss: 0.002352
+Restored best model from epoch 20 with val_loss=0.002352

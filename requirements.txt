@@ -1,5 +1,5 @@
 numpy
-opencv
+opencv-python
 pytorch
 torchvision
 torchaudio
@@ -7,3 +7,7 @@ pytorch-cuda=13.0
 timm
 wandb
 tqdm
+pillow
+imageio
+matplotlib
+opencv-python
