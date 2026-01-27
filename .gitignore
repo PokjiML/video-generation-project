@@ -1,8 +1,9 @@
 /bouncing_balls_dataset
 /experiments_data
+/wandb/
+/results
 copy.ipynb
 predicted.gif
 __pycache__/
-/wandb/
 manual.pt
 model.pt
